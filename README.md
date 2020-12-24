@@ -23,8 +23,10 @@ rm csr.pem
 
 ## Starting your peer server ##
 
-Run npm start
+Go to root of this project and run npm start
 
-## Now go to peerjs-video-chat, install and run this project to start video-chat app ##
+npm start
+
+## Now go to peerjs-video-app, install and run this project to start video-app app ##
 
 <https://github.com/sandra-frontend/peerjs-video-chat>
